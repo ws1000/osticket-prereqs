@@ -120,5 +120,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Links to osTicket</h2>
 
-- INSERT HERE
+- Help Desk Login page: http://localhost/osTicket/scp/login.php
+- End User page: http://localhost/osTicket/
 
